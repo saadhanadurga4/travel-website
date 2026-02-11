@@ -59,7 +59,7 @@ nav img{
    
 }
 #home h1{
-    font-size: 2cm;
+    font-size: 48px;
     color:black;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -99,14 +99,10 @@ nav h1{
     padding: 10px;
     font-family: cursive;
     background-color: white;
-    h3{
+}git add
+.box h3{
         color: blueviolet;
     }
-    
-    align-items: stretch;
-
-
-}
 
 .box img {
     width: 100%;
@@ -123,7 +119,7 @@ nav h1{
 .table{
     width: 100%;
     border-collapse: collapse;
-    margin: 50px 50px;
+    margin: 50px auto;
 }
 .table th,
 .table td{
@@ -251,10 +247,11 @@ nav h1{
     background-color: aquamarine;
     text-align: center;
     color: blueviolet;
-    h1:hover{
+    
+}
+.contact h1:hover{
         color: orange;
     }
-}
 
 html {
     scroll-behavior: smooth;
